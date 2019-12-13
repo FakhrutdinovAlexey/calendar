@@ -1,0 +1,3 @@
+/home/fakhrutdinovaleksey/CLionProjects/calendar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fakhrutdinovaleksey/CLionProjects/calendar/cmake-build-debug/CMakeFiles/calendar.dir
+/home/fakhrutdinovaleksey/CLionProjects/calendar/cmake-build-debug/CMakeFiles/edit_cache.dir

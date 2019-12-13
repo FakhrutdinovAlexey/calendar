@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fakhrutdinovaleksey/CLionProjects/calendar/main.cpp
+iostream
+-
+string
+-
+stdio.h
+-
+cmath
+-
+cstring
+-
+bits/stdc++.h
+-
+
